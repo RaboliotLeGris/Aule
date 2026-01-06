@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
 
       - name: Blog working dir
-        run: cd blog
+        run: cd blog && pwd && ls
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
