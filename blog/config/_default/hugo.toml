@@ -1,0 +1,24 @@
+baseURL = 'https://blog.raboland.fr'
+languageCode = 'fr-fr'
+theme = 'blowfish'
+
+defaultContentLanguage = "fr"
+
+enableRobotsTXT = true
+summaryLength = 30
+enableEmoji = true
+
+[pagination]
+pagerSize = 10
+
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
+
+[sitemap]
+changefreq = 'daily'
+filename = 'sitemap.xml'
+priority = 0.5

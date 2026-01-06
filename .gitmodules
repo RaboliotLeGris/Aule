@@ -1,0 +1,7 @@
+[submodule "blog/themes/ananke"]
+	path = blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "blog/themes/blowfish"]
+	path = blog/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

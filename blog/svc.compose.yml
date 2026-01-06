@@ -1,0 +1,9 @@
+services:
+  rablog:
+    image: ghcr.io/gohugoio/hugo:v0.152.2
+    restart: unless-stopped
+    command: server
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/src
