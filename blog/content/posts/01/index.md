@@ -2,7 +2,6 @@
 date = '2026-01-06T20:43:58+01:00'
 draft = false
 title = 'Objectifs'
-#categories = ["Post", "Blog", ]
 tags = ["meta"]
 showSummary = true
 +++

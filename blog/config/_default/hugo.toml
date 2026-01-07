@@ -2,6 +2,9 @@ baseURL = 'https://blog.raboland.fr'
 languageCode = 'fr-fr'
 theme = 'blowfish'
 
+# G-90MJEF930H
+googleAnalytics = "G-90MJEF930H"
+
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
