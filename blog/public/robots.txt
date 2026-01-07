@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://blog.raboland.fr/sitemap.xml

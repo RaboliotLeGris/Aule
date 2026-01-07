@@ -1,10 +1,9 @@
-title = "FADA"
+title = "Batisseur de Bocsozel"
 
-#[params.author]
-#name = "My name"
-##image = "img/author.jpg"
-#headline = "A generally awesome human"
-#bio = "A little bit about me"
-#links = [
-#    { twitter = "https://twitter.com/username" }
-#]
+[params]
+displayName = "FR"
+isoCode = "fr"
+dateFormat = "2 January 2006"
+
+[params.author]
+headline = "Journal d'une restoration"
