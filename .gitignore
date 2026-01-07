@@ -1,3 +1,4 @@
 hugo.exe
 /blog/resources/_gen/
-/blog/resources/public/
+/blog/resources/public/*
+/blog/public/*
